@@ -1,0 +1,32 @@
+body{
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+    background-color: black;
+    
+}
+#tarolo{
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+h1{
+    border-bottom: 4px solid black;
+}
+#lablec{
+    text-align: center;
+    border-top: 1px solid black;
+
+}
+
+a{
+    color: rgb(105, 152, 240);
+    text-decoration: none;
+    background-color: aquamarine;
+    border: 3px solid rgb(14, 0, 78);
+    padding: 5px 20px 5px 20px;/*felülröl indul*/
+}
+a:hover{
+    color: rgb(0, 78, 20);
+    background-color: blue;
+}
